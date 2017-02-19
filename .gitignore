@@ -1,0 +1,4 @@
+# Ignore dataset input dir & output dir.
+/data
+/output
+
